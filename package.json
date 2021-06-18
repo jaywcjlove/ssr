@@ -56,6 +56,6 @@
     "@types/fs-extra": "9.0.5",
     "@types/minimist": "1.2.1",
     "@types/node": "14.14.14",
-    "tsbb": "1.7.9"
+    "tsbb": "2.2.1"
   }
 }
